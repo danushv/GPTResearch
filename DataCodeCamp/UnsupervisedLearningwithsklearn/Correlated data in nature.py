@@ -1,4 +1,4 @@
-# Perform the necessary imports
+# Perform the necessary import
 import matplotlib.pyplot as plt
 from scipy.stats import pearsonr
 
